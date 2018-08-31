@@ -29,7 +29,7 @@
 
 
 
-참고한 사이트 출처 : ['링크'](https://ko.wikipedia.org/wiki/Ajax){: target="_blank" }
+참고한 사이트 출처 : ['링크'](https://ko.wikipedia.org/wiki/Ajax)
 
 
 
@@ -55,14 +55,14 @@
   * 문서 객체 모델
   * 문서 객체란 <html>이나 <body> 같은 html문서의 태그들을 JavaScript가 이용할 수 있는 객체(object)로 만들면 그것을 문서 객체라고 한다.
   * 넓은 의미로 웹브라우저가 HTML 페이지를 인식하는 방식을 의미
-  * 참고한 사이트 : ['링크'](https://m.blog.naver.com/PostView.nhn?blogId=magnking&logNo=220972680805&proxyReferer=https%3A%2F%2Fwww.google.co.kr%2F){: target="_blank" }
+  * 참고한 사이트 : ['링크'](https://m.blog.naver.com/PostView.nhn?blogId=magnking&logNo=220972680805&proxyReferer=https%3A%2F%2Fwww.google.co.kr%2F)
 
 
 
 * 콜백 함수란?
   * 자바스크립트 비동기 처리 방식에 의해 야기될 수 있는 문제들을 해결할 수 있는 함수
   * 콜백 함수를 사용하면 특정 로직이 끝났을 때 원하는 동작을 실행시킬 수 있다.
-  * 참고한 사이트 : ['링크'](https://joshua1988.github.io/web-development/javascript/javascript-asynchronous-operation/){: target="_blank" }
+  * 참고한 사이트 : ['링크'](https://joshua1988.github.io/web-development/javascript/javascript-asynchronous-operation/)
 
 
 
