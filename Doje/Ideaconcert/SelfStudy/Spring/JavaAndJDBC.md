@@ -3,7 +3,7 @@
 ---
 
 * Object Class란?
-  * 모든 자바 클래스의 최상위 클래스
+  * 모든 자바 클래스의 최상위 클래스 
   * 모든 자바 클래스들은 Object클래스를 상속 받는다.
 * prepareStatement란?
   * Statement의 보안쪽 문제를 해결한 메소드
